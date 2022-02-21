@@ -1,3 +1,4 @@
 this is my second File
-In Feature 1.0 branch doing some changes 
-GOing to merge in main branch
+I m going to add mutiple lines 
+Edit some lines 
+and then going to do a commit with Git push in Feature-2.0 branch
